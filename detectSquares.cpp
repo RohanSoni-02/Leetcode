@@ -1,3 +1,10 @@
+//code for detect squares
+
+class test{
+    public: 
+    int values;
+};
+
 class DetectSquares {
 public:
     map<pair<int,int>,int>mp;
